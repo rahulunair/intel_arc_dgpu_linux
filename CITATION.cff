@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this information, please cite it as below."
+authors:
+- family-names: Unnikrishnan Nair
+  given-names: Rahul
+  orcid: https://orcid.org/0000-0003-3602-6707
+title: "intel_arc_dgpu_linux"
+version: 1.0.0
+date-released: 2022-10-12
+url: "https://github.com/unrahul/dgpu_setup_pytorch"
