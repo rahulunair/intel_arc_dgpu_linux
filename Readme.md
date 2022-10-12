@@ -1,4 +1,4 @@
-# [Internal] Configure Linux to utilize Intel Arc A370M Xe-HPG discrete GPU
+# Configure Linux to utilize Intel Arc A370M Xe-HPG discrete GPU
 
 These instructions are for Ubuntu 22.04 LTS based Oses. I am using Pop!_OS 22.04 LTS derivative of Ubuntu 22.04.
 
