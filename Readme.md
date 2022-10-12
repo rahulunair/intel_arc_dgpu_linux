@@ -1,4 +1,4 @@
-# Configure Linux to utilize Intel Arc A370M Xe-HPG discrete GPU
+# [Internal] Configure Linux to utilize Intel Arc A370M Xe-HPG discrete GPU
 
 These instructions are for Ubuntu 22.04 LTS based Oses. I am using Pop!_OS 22.04 LTS derivative of Ubuntu 22.04.
 
@@ -268,5 +268,5 @@ Please create an [issue](https://github.com/unrahul/arc_dgpu_setup/issues) here 
 
 If you are using this information, please cite using the below link:
 
-Unnikrishnan Nair, R. (2022). intel_arc_dgpu_linux (Version 1.0.0) [Computer software]. https://github.com/rahulunair/intel_arc_dgpu_linux
+Unnikrishnan Nair, R. (2022). dgpu_setup_pytorch (Version 1.0.0) [Computer software]. https://github.com/unrahul/dgpu_setup_pytorch
 
