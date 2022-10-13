@@ -262,7 +262,7 @@ I wouldn't have been able to do this without the help of [@sanchitintel](https:/
 
 ## Something not working?
 
-Please create an [issue](https://github.com/unrahul/arc_dgpu_setup/issues) here to track any issues with these steps.
+Please create an [issue](https://github.com/rahulunair/intel_arc_dgpu_linux/issues) here to track any issues with these steps.
 
 ## Citation
 
