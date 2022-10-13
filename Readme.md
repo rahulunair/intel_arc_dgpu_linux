@@ -258,7 +258,7 @@ Checkout the `pytorch` [directory](https://github.com/unrahul/intel_arc_dgpu_lin
 
 ## Acknowledgements
 
-I wouldn't have been able to do this without the help of [@sanchitintel](https://github.com/sanchitintel) and [@gujingui](https://github.com/gujinghui). Also, [Phoronix](https://www.phoronix.com/review/intel-arc-graphics-linux) has been publishing updates on the best way to enable Intel Arc dGPU, version of the kernel, mesa drivers, etc. That was my start in setting up the software stack.
+I wouldn't have been able to do this without the help of [@sanchitintel](https://github.com/sanchitintel) and [@gujingui](https://github.com/gujinghui). Also, [Phoronix](https://www.phoronix.com/review/intel-arc-graphics-linux) has been publishing updates on the best way to enable Intel Arc dGPU, detailing the version of the kernel, mesa drivers, etc. That was my start in setting up the software stack.
 
 ## Something not working?
 
