@@ -7,4 +7,4 @@ authors:
 title: "intel_arc_dgpu_linux"
 version: 1.0.0
 date-released: 2022-10-12
-url: "https://github.com/unrahul/dgpu_setup_pytorch"
+url: "https://github.com/rahulunair/intel_arc_dgpu_linux"
