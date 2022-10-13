@@ -254,7 +254,7 @@ As seen above both the igpu and dgpu performance can be monitored using the tool
 
 ## Pytorch and IPEX on dgpu
 
-Checkout the `pytorch` [directory](https://github.com/unrahul/arc_dgpu_setup/tree/main/pytorch) to know how to install PyTorch and IPEX with dGPU support.
+Checkout the `pytorch` [directory](https://github.com/unrahul/intel_arc_dgpu_linux/tree/main/pytorch) to know how to install PyTorch and IPEX with dGPU support.
 
 ## Acknowledgements
 
