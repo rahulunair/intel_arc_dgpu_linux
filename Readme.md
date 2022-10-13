@@ -5,7 +5,7 @@ These instructions are for Ubuntu 22.04 LTS based Oses. I am using Pop!_OS 22.04
 ## Configure Linux kernel
 
 
-1. Install the latest available Linux kernel, for example I have installed **kernel 6.0** using Mainline tool
+1. Install the latest available Linux kernel, for example I have installed **kernel 6.0**
 
 Install a recent version of the kernel. The easiest way to install a different kernel is by using [Mainline](https://github.com/bkw777/mainline).
 
