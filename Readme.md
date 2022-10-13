@@ -268,5 +268,5 @@ Please create an [issue](https://github.com/unrahul/arc_dgpu_setup/issues) here 
 
 If you are using this information, please cite using the below link:
 
-Unnikrishnan Nair, R. (2022). dgpu_setup_pytorch (Version 1.0.0) [Computer software]. https://github.com/unrahul/dgpu_setup_pytorch
+Unnikrishnan Nair, R. (2022). dgpu_setup_pytorch (Version 1.0.0) [Computer software]. https://github.com/rahulunair/intel_arc_dgpu_linux
 
